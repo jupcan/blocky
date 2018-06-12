@@ -1,3 +1,3 @@
 # blocky
-computer structure fundamentals lab project
-nds game fully playable
+## computer structure fundamentals lab project
+nds playable game
